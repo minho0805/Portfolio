@@ -5,15 +5,6 @@ export interface InformationProps {
   imgSrc?: string;
 }
 
-export interface WorkExperienceProps {
-  id: number;
-  name: string;
-  description?: string;
-  position: string;
-  period: string[];
-  markdown?: string;
-  imgSrc?: string;
-}
 
 export interface ProjectProps {
   id: number;
