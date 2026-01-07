@@ -27,6 +27,7 @@
     "typescript": "4.9.4"
   },
   "devDependencies": {
+    "@netlify/plugin-nextjs": "^5.15.4",
     "@types/gtag.js": "^0.0.12",
     "@typescript-eslint/eslint-plugin": "^5.49.0",
     "@typescript-eslint/parser": "^5.49.0",
