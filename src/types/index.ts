@@ -41,7 +41,6 @@ export interface DataProps {
     title: string;
   };
   information: InformationProps;
-  workExperience: WorkExperienceProps[];
   project: ProjectProps[];
   activity: {
     id: number;
