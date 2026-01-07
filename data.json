@@ -18,7 +18,7 @@
       "id": 0,
       "name": "UniTime",
       "description": "대학생을 위한 AI 자동 시간표 생성 서비스",
-      "webUrl": "https://github.com/sjoleee/",
+      "webUrl": "",
       "repoUrl": "https://github.com/Hwai-Team/UniTime-BE",
       "isTeam": true,
       "period": ["2025. 10", "2025. 11"],
